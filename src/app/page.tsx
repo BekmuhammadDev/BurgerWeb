@@ -1,5 +1,5 @@
 import React from 'react'
-import { Button, Container, Input } from '@chakra-ui/react';
+import { Button, Input } from '@chakra-ui/react';
 import Image from 'next/image';
 import HumCircle from "../assets/img/hamburgercircle.png"
 import Humburger from "../assets/img/bighamburger.png"
@@ -27,9 +27,6 @@ import Youtube from "../assets/icon/Youtube.svg"
 const page = () => {
   return (
     <>
-
-
-
       <section>
         <div className="container mx-auto">
           <div className=' flex justify-between mt-20'>

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card, CardBody, Stack, Heading, Text, CardFooter,IconButton, Box } from '@chakra-ui/react';
+import { Card, CardBody, Stack, Heading, Text, CardFooter, Box } from '@chakra-ui/react';
 import CardBurger from "../../../assets/img/cardburger.png"
 import Image from 'next/image';
 import { IoIosStarOutline } from "react-icons/io";
